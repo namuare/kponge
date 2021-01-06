@@ -9,7 +9,7 @@ import org.spongepowered.api.plugin.Plugin
 @Plugin(
     id = "kponge",
     name = "Kponge",
-    version = "1.0-SNAPSHOT",
+    version = "1.3.72",
     description = "kotlin runtime provider for sponge"
 )
 class Kponge {

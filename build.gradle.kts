@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "me.mocha.spongeplugin"
-version = "1.0-SNAPSHOT"
+version = "1.3.72"
 
 repositories {
     mavenCentral()
